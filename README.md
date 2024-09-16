@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zehradeveloper</h1>
 <h3 align="center">A passionate frontend developer from Türkiye</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:akinadaletzehra@gmail.com</h3>
 <p align="left">
 </p>
 
